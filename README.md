@@ -5,7 +5,9 @@ This is an IO board designed for the EMU MMU, with a maximum current of **10A**.
 Now available on AliExpress.
 https://www.aliexpress.com/item/1005011529532141.html
 
+**Authorized Resellers**
 
+* [OneTwo3D](https://www.onetwo3d.co.uk/product/emu-i-o-board/) (UK)
 
 <img src="Assets/3.jpg" width="70%"/>
 
